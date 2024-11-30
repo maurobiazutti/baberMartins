@@ -1,4 +1,9 @@
-# Recuperação de senha
+# Back-End
+
+**Descrição do funcionamento da API**
+
+---
+## Recuperação de senha
 
 **RF**
 
