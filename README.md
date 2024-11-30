@@ -34,7 +34,7 @@ O Mobile foi desenvolvido com React Native e TypeScript. Para padronização e o
 <br>
 
 ## 🏁 Iniciando o projeto Mobile
-Clone o projeto
+Clone o projeto: git@github.com:maurobiazutti/baberMartins.git
 
 <br>
 
@@ -76,7 +76,7 @@ Para upload de imagens, foi utilizado Multer.
 <br>
 
 ## 🏁 Iniciando o projeto Back-End
-Clone o projeto
+Clone o projeto: git@github.com:maurobiazutti/baberMartins.git
 
 <br>
 
